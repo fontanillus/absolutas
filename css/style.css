@@ -80,8 +80,8 @@ h2, p {
 
   .targeta {
     display: inline-block;
-    position: absolute;
-    right: 45.50%;
+    position: fixed;
+    right: 45%;
     top: 405px;
     width: 180px;
     height: 160px;
